@@ -1,6 +1,8 @@
 import java.sql.Date;
 import java.util.ArrayList;
 
+import Products.Product;
+
 public class Order
 {
     public ArrayList<Product> Product;

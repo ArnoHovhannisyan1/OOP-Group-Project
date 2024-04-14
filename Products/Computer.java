@@ -1,3 +1,5 @@
+package Products;
+
 public class Computer extends Product{
     private String Processor;
     private String Display;

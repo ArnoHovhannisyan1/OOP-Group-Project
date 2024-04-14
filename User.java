@@ -5,12 +5,18 @@ public abstract class User {
     public String FirstName;
     public String LastName;
     public String Email;
-    public UserType UserType;
     
 
-    public enum UserType{
-        CLIENT,
-        ADMIN
+    public class UserNotFoundException extends Exception
+    {
+        UserNotFoundException()
+        {
+            super();
+        }
+        UserNotFoundException(String message)
+        {
+            super(message);
+        }
     }
 
 }

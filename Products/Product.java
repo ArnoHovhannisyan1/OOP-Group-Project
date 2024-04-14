@@ -1,3 +1,4 @@
+package Products;
 
 public abstract class  Product
 {    
@@ -29,5 +30,18 @@ public abstract class  Product
     {
         NEW,
         USED
+    }
+
+
+    public class ProductNotInStockException extends Exception
+    {
+        ProductNotInStockException()
+        {
+            super();
+        }
+        ProductNotInStockException(String message)
+        {
+            super(message);
+        }
     }
 }

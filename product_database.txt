@@ -1,0 +1,8 @@
+1,Iphone 15,Apple,Smartphone,1000,new,171,2.82×5.81×0.31,black,256,6.1-inch AMOLED Retina XDR,Products\\ProductImages\\SmartphoneImages\\iphone15_black_1.png,Products\ProductImages\SmartphoneImages\iphone15_black_2.jpg,Products\ProductImages\SmartphoneImages\iphone15_black_3.webp
+2,Iphone 15,Apple,Smartphone,1000,new,171,2.82×5.81×0.31,black,256,6.1-inch AMOLED Retina XDR,Products\ProductImages\SmartphoneImages\iphone15_black_1.png,Products\ProductImages\SmartphoneImages\iphone15_black_2.jpg,Products\ProductImages\SmartphoneImages\iphone15_black_3.webp
+3,Iphone 15,Apple,Smartphone,1000,new,171,2.82×5.81×0.31,black,256,6.1-inch AMOLED Retina XDR,Products\ProductImages\SmartphoneImages\iphone15_black_1.png,Products\ProductImages\SmartphoneImages\iphone15_black_2.jpg,Products\ProductImages\SmartphoneImages\iphone15_black_3.webp
+4,Iphone 15,Apple,Smartphone,1000,new,171,2.82×5.81×0.31,black,256,6.1-inch AMOLED Retina XDR,Products\\ProductImages\\SmartphoneImages\\iphone15_black_1.png,Products\ProductImages\SmartphoneImages\iphone15_black_2.jpg,Products\ProductImages\SmartphoneImages\iphone15_black_3.webp
+5,Iphone 15,Apple,Smartphone,1000,new,171,2.82×5.81×0.31,black,256,6.1-inch AMOLED Retina XDR,Products\ProductImages\SmartphoneImages\iphone15_black_1.png,Products\ProductImages\SmartphoneImages\iphone15_black_2.jpg,Products\ProductImages\SmartphoneImages\iphone15_black_3.webp
+6,Iphone 15,Apple,Smartphone,1000,new,171,2.82×5.81×0.31,black,256,6.1-inch AMOLED Retina XDR,Products\ProductImages\SmartphoneImages\iphone15_black_1.png,Products\ProductImages\SmartphoneImages\iphone15_black_2.jpg,Products\ProductImages\SmartphoneImages\iphone15_black_3.webp
+
+
